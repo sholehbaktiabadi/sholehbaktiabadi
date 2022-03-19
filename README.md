@@ -7,6 +7,7 @@
 
 <div align="left">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sholehbaktiabadi&show_icons=trueline_height=21&theme=radical" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sholehbaktiabadi&show_icons=trueline_height=21&theme=radical" />
 </div>
 
 <h5 align="left">Languages and Tools:</h5>
