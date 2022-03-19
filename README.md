@@ -1,4 +1,5 @@
 <h4 align="left">Hi 👋, I'm Sholeh Bakti Abadi</h4>
+<p>Tech Enthusiast from Indonesia</p>
 <hr style="left:1px">
 
 - 🔭 I’m currently working on **PT. Widya Informasi Nusantara** & **PT. Yureka Teknologi Cipta**
