@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **PT Yureka Teknologi Cipta** & **PT Yureka Teknologi Cipta**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sholehbaktiabadi](https://github.com/sholehbaktiabadi)
-
 - 📫 How to reach me **sholehbaktiabadi@gmail.com**
 
 <h5 align="left">Languages and Tools:</h5>
