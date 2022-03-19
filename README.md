@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Sholeh Bakti Abadi</h3>
+<h4 align="left">Hi 👋, I'm Sholeh Bakti Abadi</h4>
 <hr style="left:1px">
 
 - 🔭 I’m currently working on **PT. Widya Informasi Nusantara** & **PT. Yureka Teknologi Cipta**
