@@ -7,7 +7,7 @@
 - 📫 How to reach me **sholehbaktiabadi@gmail.com**
 
 <div align="left">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sholehbaktiabadi&show_icons=trueline_height=21&text_color=333&icon_color=4c71f2&bg_color=fffefe&theme=dark" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sholehbaktiabadi&show_icons=trueline_height=21&text_color=333&icon_color=4c71f2&bg_color=fffefe&theme=default" />
 </div>
 
 <h5 align="left">Languages and Tools:</h5>
