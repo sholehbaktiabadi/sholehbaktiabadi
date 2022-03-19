@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Sholeh Bakti Abadi</h3>
 <p align="center">A tech enthusiast from Indonesia</p>
-<hr style="height:0.3px">
+<hr style="height:0.1px">
 - 🔭 I’m currently working on **PT Yureka Teknologi Cipta**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sholehbaktiabadi](https://github.com/sholehbaktiabadi)
