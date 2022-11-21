@@ -2,7 +2,7 @@
 <p>Tech Enthusiast from Indonesia</p>
 <hr style="left:1px">
 
-- 🔭 I’m currently working on **PT. Widya Informasi Nusantara** & **PT. Yureka Teknologi Cipta**
+- 🔭 I’m currently working on **PT. Sari Kaldu Nabati Indonesia** & **PT. Cipta Medika Informasi**
 
 - 📫 How to reach me **sholehbaktiabadi@gmail.com**
 
