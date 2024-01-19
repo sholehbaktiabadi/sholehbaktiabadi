@@ -1,8 +1,6 @@
-<h4 align="left">Hi 👋, I'm Sholeh Bakti Abadi</h4>
+<h4 align="left">Hi 👋, I'm Bekti</h4>
 <p>Tech Enthusiast from Indonesia</p>
 <hr style="left:1px">
-
-- 🔭 I’m currently working on **PT. Sari Kaldu Nabati Indonesia** & **PT. Cipta Medika Informasi**
 
 - 📫 How to reach me **sholehbaktiabadi@gmail.com**
 
